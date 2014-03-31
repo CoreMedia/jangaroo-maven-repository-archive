@@ -1,0 +1,46 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <parent>
+    <groupId>net.jangaroo</groupId>
+    <artifactId>jangaroo-libs</artifactId>
+    <version>0.5.8</version>
+  </parent>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>net.jangaroo</groupId>
+  <artifactId>tiny_mce-ext</artifactId>
+  <packaging>jangaroo</packaging>
+  <version>0.5.8</version>
+  <name>AS TinyMCE API</name>
+  <description />
+  
+
+  <dependencies>
+
+    <dependency>
+      <groupId>net.jangaroo</groupId>
+      <artifactId>ext-as</artifactId>
+      <version>0.5.8</version>
+      <type>jangaroo</type>
+    </dependency>
+    <dependency>
+      <groupId>net.jangaroo</groupId>
+      <artifactId>ext-as</artifactId>
+      <version>0.5.8</version>
+    </dependency>
+
+    <dependency>
+      <groupId>net.jangaroo</groupId>
+      <artifactId>miframe</artifactId>
+      <version>0.5.8</version>
+      <type>jangaroo</type>
+    </dependency>
+
+    <dependency>
+      <groupId>net.jangaroo</groupId>
+      <artifactId>tiny_mce</artifactId>
+      <version>0.5.8</version>
+      <type>jangaroo</type>
+    </dependency>
+
+  </dependencies>
+
+</project>

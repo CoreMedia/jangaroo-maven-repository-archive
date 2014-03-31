@@ -1,0 +1,40 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.swfobject</groupId>
+  <artifactId>swfobject</artifactId>
+  <packaging>pom</packaging>
+  <version>v2.0</version>
+  <name>SWFObject</name>
+  <url>http://code.google.com/p/swfobject/</url>
+  <description>
+    This software is released under the MIT License
+    http://www.opensource.org/licenses/mit-license.php
+  </description>
+
+  <parent>
+    <groupId>net.jangaroo</groupId>
+    <artifactId>joo-lib</artifactId>
+    <version>0.1-SNAPSHOT</version>
+    <relativePath>../joo-lib/pom.xml</relativePath>
+  </parent>
+
+  <developers>
+    <developer>
+      <id>gstearns</id>
+      <name>Geoff Stearns</name>
+    </developer>
+
+    <developer>
+      <id>mwilliams</id>
+      <name>Michael Williams</name>
+    </developer>
+
+    <developer>
+      <id>bvdsluis</id>
+      <name>Bobby van der Sluis</name>
+    </developer>
+  </developers>
+
+</project>

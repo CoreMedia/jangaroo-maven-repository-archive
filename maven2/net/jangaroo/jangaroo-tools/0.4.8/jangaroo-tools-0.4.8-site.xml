@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><project xsi:schemaLocation="http://maven.apache.org/DECORATION/1.0.0 http://maven.apache.org/xsd/decoration-1.0.0.xsd" name="The Jangaroo Tools" xmlns="http://maven.apache.org/DECORATION/1.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <bannerLeft>
+    <src>images/jangaroo.png</src>
+    <href>http://www.jangaroo.net</href>
+  </bannerLeft>
+  <body>
+    <menu name="Jangaroo">
+      <item name="Overview" href="index.html" />
+    </menu>
+    <menu name="Modules" ref="modules">
+      <item name="Jangaroo Core" href="..\jangaroo-core/index.html" />
+      <item name="Jangaroo Maven Integration" href="..\jangaroo-maven/index.html" />
+      <item name="JooTest Hudson Plugin" href="..\jangaroo-hudson-plugin/index.html" />
+    </menu>
+  </body>
+</project>

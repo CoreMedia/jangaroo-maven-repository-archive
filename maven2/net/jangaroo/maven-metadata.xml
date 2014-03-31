@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Jangaroo Maven Plugin</name>
+      <prefix>jangaroo</prefix>
+      <artifactId>jangaroo-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>ext xml maven plugin</name>
+      <prefix>ext-xml</prefix>
+      <artifactId>ext-xml-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Jangaroo Build Lifecycle &amp; Artifact Handling</name>
+      <prefix>jangaroo-lifecycle</prefix>
+      <artifactId>jangaroo-lifecycle</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
